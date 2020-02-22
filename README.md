@@ -19,3 +19,15 @@ http://physicshelpforum.com/quantum-physics/15401-experiment-demonstrating-princ
 
 Chinese discussion
 https://zhuanlan.zhihu.com/p/80336784
+
+keyword
+
+ Nonlinear physics 
+random signals
+cellular automata
+ experiment
+underlying layer
+Occam's razor
+distinguish between complexity sizes
+chaotic systems
+not artificially
